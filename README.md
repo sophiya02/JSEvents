@@ -1,0 +1,1 @@
+It is a small JS project, utilising the Javascript events like Mouse events, Keyboard events, and window events.
