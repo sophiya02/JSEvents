@@ -128,7 +128,7 @@ h1{
 
 /* form */
 #form{
-    display: block;
+    display: none;
     max-width: fit-content;
     height: fit-content;
     background-color:  rgba(5, 3, 3, 0.109);
